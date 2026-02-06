@@ -3,4 +3,4 @@ lex.yy.c
 version.txt
 
 .vscode
-.DS_Store
+/.DS_Store
